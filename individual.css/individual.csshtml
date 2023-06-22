@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="individual.css">
+    <title>hemilly</title>
+</head>
+<body>
+    <section class="capa">
+
+        <div class="eu">
+            <img class="senai" src="imagens/" alt="">
+            <h1>Multimídia</h1>
+            <h3>SENAI - José Bonifácio</h3>
+            <p>Projeto Individual</p>
+            <p>Sprint 4 - 1º semestre - Turma 2023</p>
+        </div>
+        
+    </section>
+    <section class="pessoal">
+        <div class="informaçoes">
+            <img class="perfil"src="https://scontent-gru2-1.xx.fbcdn.net/v/t39.30808-6/316226866_1213071256089536_6345754431991282786_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=174925&_nc_ohc=tCG25_Xyu1UAX8ZTCpo&_nc_ht=scontent-gru2-1.xx&oh=00_AfB2ReDvxL9H9taG227CIpXtSsJuS1QO4iMvlh-1fDPLsw&oe=6499EC05"  width="300" height="400"  alt="foto de perfil do aluno">
+        </div>
+        <div class="title-aluno direita">
+            <h2>Hemilly Amanda Da Silva Moura</h2>
+            
+            <p>Texto sobre mim</p>
+            <p> Olá, sou a Hemilly tenho 16 anos, moro em José Bomifacio, e estudo no sesi 381, faço curso de Multimídia no senai, quando estou com um tempo livre gosto de ficar com meu namorado e minha familia, tenho uma estética automotiva e aos fins de semana trabalho nela, gosto de ler e aprender coisas novas na cozinha.</p>
+            
+        </div>
+    </section>
+    
+    <section class="portfolio">
+        <div class="imagem">
+            <a href="https://www.linkedin.com/authwall?trk=qf&original_referer=https://www.google.com/&sessionRedirect=https%3A%2F%2Fbr.linkedin.com%2F%3Fsrc%3Dgo-pa%26trk%3Dsem-ga_campid.12619604099_asid.148548608796_crid.656532769092_kw.linked_d.c_tid.kwd-103941963_n.g_mt.e_geo.9074207%26mcid%3D6821526239111716925%26cid%3D%26gclid%3DCj0KCQjw4s-kBhDqARIsAN-ipH2AXGrKEETHHoDOYpctVz2dbasw3ye72qSYt6SpgXwfEbNU8z5RNA0aAskFEALw_wcB%26gclsrc%3Daw.ds">
+            <img class="logo" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAdVBMVEUKZsL///8AZME7eMgAWb7i6fUAXL/Az+oAYsFjj9B1m9QAYMBGgswAVr0AXb8AWr5ZjdBWh80ZbMTO3PCzx+drl9T2+f2Ssd7G1u0dbsXF1e3w9fs2dsfl7ffV4fIocsaApNmowOSMrNyrw+Wbt+AAUryFqNr2AL+0AAADz0lEQVR4nO3ca1+qMACAcZiA5ATMW+a98vT9P+LROkXiNruMLXae/2v1xyOy6QCjCAAAAAAAAAAAAAAAAAAAALBGnPjeiPbkZSJ36/W4qmSQlbIYTTfxyXx72CXBNYpkv4o/mAwDayx7m7hhWoWUWM2afUebcTiJ5UAReDweo1AS5VAZeNyLgXxQhZxrCo/Hou+NsyJ70AXGcS+EnSgifWC8SHxvngXyzlAYhzCeJqmp8FH63r4fE8IUGC+6P9YI3VTxatP9AzFXz/bvCt8b+GNyT2HX5aov3UEVip4xMO3+SBNlxsJp6Xv7fq5amApn3Z/xzQfivAzgW1tUrPSFDwF8SM1zfiDLisUk5KPwREjN5/QpgKnilbhXrmP0uz/bvxPR9jLwEFDgacm7+Ut/c5v53ijLSvHw4WhMB0Xue4usE2U1vOtv03Qy3e+S8PpeCJlVSZKVgcyCAIDfT+SyrI6Ok0+As4+QVbGbHabLxWTRf7qb7YrMa6XIdZpbpX3k2QPzSuyXjV8rk8dd4i1SjG90bs+3SQx1D7yvH5gnt0vlr830ufK06mNYMW2cl8nUm370/laIYmQ4W3covSwaGAob68FZ/1phudOuiLyYDwoPu9FeoSiejX0nE+H+Z4u1QiHNO/DVfOh8hdJWYT42LLx+NHN9XtlSoVxrL8tpGjheILFTqFmvU7txO6RaKZT5Jz+ir9xeiWSl8M9nBpnayunVqzYKh9eniXNTl8vpVvbhFwOP74nDadFG4RdGmbeXdriibqPwG2budqKnQofXQHgqjIfOhlNfhX1nX958FcaZq53ordDZOXRvhVNXX8DtF87TNP3EDLlyNZpaLlwOxkWSJIWYXX20q4vIrRY+jat/S4tCVmPjBWXuDkSLhave2V02ojDeBxAfHK1n2CvcZs1vYhcXQJxZOhpqrBWqvofpr7fSPOE3F84vTgKcXvze9AxHvy9sFY6U40Zleo6jMxmWChfqHWK8n8PRdGGpULe4lBiWqHZdKtzqRg3TkxwtudkpfNbN3tKwSNWpQu0hJQyrVF0q3GgHftPNcV0qXOp/sBdhFBou6jcMpl0qNNxrmlz8XUMnC/fBFw7067uGG40ptITCGoVqFLaPwhqFahS2j8IahWoUto/CGoVqFLaPwhqFahS2j8IahWoUto/CGoVqFLaPwhqFahS2j8IahWoUto/CGoVqFLaPwlqAhc1/4NHfx2Qq9H7lXhT1dNaNf1HqDc/djt4YrroXa+3rtx1Wb4PWlQfq/zPrWy8PAAAAAAAAAAAAAAAAAAAA4D/0F5lQSZ+5G/qbAAAAAElFTkSuQmCC" alt="logo LinkedIn">
+            <h2>LinkedIn</h2>   
+            </a>         
+        </div>
+        <div class="imagem">  
+            <a href="https://github.com/Hemillymoura">       
+            <img class="logo" src="data:image/png;base64,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" alt="logo github">
+            <h2>Github</h2>
+            </a>
+        </div>
+        <div class="imagem">  
+            <a href="https://www.figma.com/file/7k36pTUE88HO9TahxN0Wsd/Dia-14?type=design&node-id=0-1&mode=design&t=Ic5DqsUI8zshB58V-0">      
+            <img class="logo" src="data:image/png;base64,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" alt="logo figma">
+            <h2>Figma</h2>
+            </a>
+        </div>
+    </section>
+
+    <section class="grupo_hemilly">
+        <div class="title_marts">
+            <h3>Marts</h3>
+            <p>Proposta do grupo - Resumo do app</p>
+            <p>Marts é um aplicativo de filmes e série, com o propósito de agradar pessoas que gosta de ler livros, alias nosso app os filmes são todos baseados em filmes, ele funciona em qualquer lugar e offline!.</p>
+            <ul>
+                <li>Projeto Manual de Identidade</li>
+                <li>Projeto Figma</li>                
+                <li>Projeto Github</li>
+            </ul>
+        </div>
+        <div class="logo_marts">
+        <img class="logo_marts" src="c:\Users\Aluno\Downloads\Ativo 4 2.png" alt="logo do grupo">
+        </div>
+            
+    </section>
+    <section class="titulo_grupos">
+        <h3>Todos os grupos</h3>
+        <p>Veja aqui os projetos dos grupos da turma 2023 do Técnico de Multimídia.</p>
+        <div class="grupos">
+            <div class="grupo">
+                <a href="">
+                    <img class="logo" src="c:\Users\Aluno\Downloads\Ativo 21 1.png" alt="Cine Brasil">
+                </a>
+            </div>
+            <div class="grupo">
+                <a href="">
+                <img class="logo" src="c:\Users\Aluno\Downloads\logo 2.png" alt="Caven">
+                </a>
+            </div>
+            
+            <div class="grupo">
+                <a href="">
+                <img class="logo" src="c:\Users\Aluno\Downloads\Rectangle 9.png" alt="Astromusic">
+                </a>
+            </div>
+            <div class="grupo">
+                <a href="">
+                <img class="logo" src="imagens/Group 1.png" alt="Booklet">
+                </a>
+            </div>
+            <div class="grupo">
+                <a href="">
+                <img class="grupo" src="imagens/Ativo 4 2.png" alt="Marts">
+                </a>
+            </div>
+
+            <div class="grupo">
+                <a href="">
+                <img class="logo-small" src="c:\Users\Aluno\Downloads\leron.png" alt="Leron">
+                </a>
+            </div>
+          
+            <div class="grupo">
+                <a href="">
+                <img class="logo-small" src="c:\Users\Aluno\Downloads\Ativo 4 3.png" alt="Play.o">
+                </a>
+            </div>
+            
+        </div>
+
+    </section>
+    
+        
+
+
+    
+</body>
+</html>
+
+
+
+body{
+    color: white;
+    margin: 0;
+    background-color: black;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    text-decoration: none;
+}
+.logo{
+    width: auto;
+    height: 150px;
+}
+section{
+    padding: 2%;
+}
+.capa{
+    color: white;
+    height: 500px;
+    background-color: brown;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+    .eu{
+        text-align: left;
+        text-align: center;
+        }        
+    h1{
+            font-size: 100px;
+            text-align: center;
+            text-transform: uppercase;
+    }
+    .perfil{
+        width: 400px;
+    }
+    .grupo_beatriz{
+        display: flex;
+        justify-content: space-around;
+    }
+.portfolio{
+    height: 50vh;
+    background-color:brown;
+    display: flex;
+    align-items: center;
+}
+.imagem{
+    flex: 1;
+    text-align: center;
+}
+.pessoal{
+    display: flex;
+    justify-content: space-around;
+    gap: 50px;
+}
+.informacoes, title-grupo{
+    flex: 1;
+}
+.direita{
+    text-align: right;
+}
+
+.titulo_grupos{
+    height: 80vh;
+    background-color: brown;
+    
+}
+.grupos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+}
+.logo_marts{
+   height: 150px;
+   flex: 2;
+}
+
+.logo-small{
+    height: auto;
+    width: 300px;
+}
+.grupo{
+    flex: 0 0 20%; 
+    margin: 30px;
+}
+.senai{
+width: 200px;
+
+}
