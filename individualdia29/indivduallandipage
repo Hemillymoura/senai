@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Marts</title>
+    <style>
+        .cta-container {
+            background-color:black;
+            padding: 50px;
+            text-align: center;
+        }
+
+        .cta-title {
+            font-size: 24px;
+            color: black;
+            margin-bottom: 20px;
+        }
+
+        .cta-description {
+            font-size: 16px;
+            color: white;
+            margin-bottom: 30px;
+        }
+
+        .cta-button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #F44336;
+            color: #FFFFFF;
+            font-size: 18px;
+            text-decoration: none;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="cta-container">
+        <h1 class="cta-title">Assine nossos planos</h1>
+        <p class="cta-description">Receba atualizações exclusivas, dicas e promoções diretamente em sua caixa de entrada.</p>
+        <a href="https://www.exemplo.com/inscricao" class="cta-button">Assinar planos</a>
+    </div>
+</body>
+</html>
+
+
+<html>
+<head>
+    <title>CTA</title>
+    <style>
+        .cta-container {
+            background-color: black;
+            padding: 50px;
+            text-align: center;
+        }
+
+        .cta-title {
+            font-size: 24px;
+            color: white;
+            margin-bottom: 20px;
+        }
+
+        .cta-description {
+            font-size: 16px;
+            color: white;
+            margin-bottom: 30px;
+        }
+
+        .benefits-list {
+            list-style-type: disc;
+            text-align: left;
+            margin-bottom: 30px;
+        }
+
+        .benefits-list-item {
+            margin-bottom: 10px;
+        }
+
+        .cta-button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #F44336;
+            color: #FFFFFF;
+            font-size: 18px;
+            text-decoration: none;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<html>
+<head>
+    <title>Lista Centralizada</title>
+    <style>
+        .container {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .benefits-list {
+            list-style-type: disc;
+            text-align: left;
+            margin-bottom: 30px;
+        }
+
+        .benefits-list-item {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Nossos beneficios</h1>
+        <ul class="benefits-list">
+            <li class="benefits-list-item">Alta qualidade nos vídeos</li>
+            <li class="benefits-list-item">Compartilhamento de tela a qualquer lugar</li>
+            <li class="benefits-list-item">Proteção infantil</li>
+            <li class="benefits-list-item">Baixo custo</li>
+             <a href="https://www.netflix.com/br/" class="cta-button">Clique aqui</a>
+        </ul>
+    </div>
+</body>
+</html>
+<body>
+
+    <section class="beneficios">
+    <div class="cta-container">
+        <h1 class="cta-title">Comece agora sua assinatura</h1>
+        <p class="cta-description">Descubra novas utilidades e facil acesso</p>
+        <a href="https://www.exemplo.com/comecar" class="cta-button">Vamos lá</a>
+    </div>
+    </section>
+</body>
+</html>
